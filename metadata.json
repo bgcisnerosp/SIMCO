@@ -1,0 +1,6 @@
+{
+  "name": "K.A.O. - SIMCO",
+  "description": "SISTEMA MAPEO DE CONTENEDORES — Aplicación para el control, carga de manifiestos y directorios, selección de piso y bodega, y escaneo continuo para recepción de contenedores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
